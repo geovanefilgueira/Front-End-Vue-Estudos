@@ -7,19 +7,19 @@ demais elementos da página, assim a div que era flutuante assume o lugar do hea
  tomam o mesmo lugar um sobrepondo o outro
 
 
-As demais divs ou section não tem nenhuma complicação pois o elementos não flutuam na tela
+As demais divs ou section não tem nenhuma complicação pois os elementos não flutuam na tela
 
 
-durante todo o desenvolvimento foi utilizado flexbox, o que pode se tornar muito repetitivo gerando código desnecessário
+Durante todo o desenvolvimento foi utilizado flexbox, o que pode se tornar muito repetitivo gerando código desnecessário
 alternativas será a utilização de algum micro processador css, como saas, lessou um framework, 
-ou até mesmo um framework próprio contendo o design systems do projeto onde cada elemento conter diversas classes
+ou até mesmo um framework próprio contendo o design systems do projeto onde cada elemento pode conter diversas classes
  assim como acontece no framework tailwind css
 
 
 Para sanar eventuais dúvidas entre em contato:geovane.filgueiraa@gmail.com
-
-
 ATENÇÃO o assunto deve ser:HELP DEV
+
+
 Existe mais de uma forma de reproduzir este layout,
 
-a discussão entre devs e essencial para obter o melhor resultado
+A discussão entre devs e essencial para obtenção do melhor resultado
